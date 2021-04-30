@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Menu.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher_MarkupCompile.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher_MarkupCompile.lref
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Debug\Vigenere Cipher.exe.config
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Debug\Vigenere Cipher.exe
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Debug\Vigenere Cipher.pdb
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Menu.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.g.resources
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere_Cipher.Properties.Resources.resources
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.exe
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.pdb
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\MainPage.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\MainPage.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Debug\Vigenere Cipher.csproj.ResolveComReference.cache

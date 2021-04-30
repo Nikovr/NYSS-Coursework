@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vigenere Cipher", "Vigenere Cipher\Vigenere Cipher.csproj", "{C70CC7DE-17D3-4397-A071-1052ECEE0ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vigenere Cipher.UnitTests", "Vigenere Cipher.UnitTests\Vigenere Cipher.UnitTests.csproj", "{B52F8C72-4A03-4B2D-8559-D27BA11DC663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70CC7DE-17D3-4397-A071-1052ECEE0ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70CC7DE-17D3-4397-A071-1052ECEE0ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70CC7DE-17D3-4397-A071-1052ECEE0ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70CC7DE-17D3-4397-A071-1052ECEE0ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52F8C72-4A03-4B2D-8559-D27BA11DC663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52F8C72-4A03-4B2D-8559-D27BA11DC663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52F8C72-4A03-4B2D-8559-D27BA11DC663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52F8C72-4A03-4B2D-8559-D27BA11DC663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74DFC47-9D58-4C8F-A5DC-2AC7B88B2830}
+	EndGlobalSection
+EndGlobal

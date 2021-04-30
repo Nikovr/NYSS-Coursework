@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Vigenere Cipher.UnitTests.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Vigenere Cipher.UnitTests.pdb
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Vigenere Cipher.exe
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Vigenere Cipher.pdb
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Vigenere Cipher.exe.config
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\obj\Release\Vigenere Cipher.UnitTests.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\obj\Release\Vigenere Cipher.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\obj\Release\Vigenere Cipher.UnitTests.csproj.CopyComplete
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\obj\Release\Vigenere Cipher.UnitTests.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher.UnitTests\obj\Release\Vigenere Cipher.UnitTests.pdb

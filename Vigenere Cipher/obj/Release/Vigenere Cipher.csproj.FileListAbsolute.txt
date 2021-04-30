@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Release\Vigenere Cipher.exe.config
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Release\Vigenere Cipher.exe
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\bin\Release\Vigenere Cipher.pdb
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\MainPage.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\MainWindow.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Menu.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\App.g.cs
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher_MarkupCompile.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher_MarkupCompile.lref
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\MainPage.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\MainWindow.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Menu.baml
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.g.resources
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere_Cipher.Properties.Resources.resources
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.exe
+C:\Users\Admin\source\repos\Vigenere Cipher\Vigenere Cipher\obj\Release\Vigenere Cipher.pdb
